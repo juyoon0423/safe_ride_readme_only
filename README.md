@@ -123,30 +123,24 @@
 
 ### 📝 프로젝트 설계 및 기획
 
-<details>
 <summary><strong>ERD</strong></summary>
 
 ![ERD](https://github.com/soeunc/safe_ride/blob/main/Weekly_Log/assets/ERD%2B.png)
 
 
-</details>
 <br>
 
-<details>
 <summary><strong>화면 기획</strong></summary>
 
 ![event](https://github.com/soeunc/safe_ride/blob/main/Weekly_Log/assets/%ED%99%94%EB%A9%B4%EA%B8%B0%ED%9A%8D.png)
 
-</details>
 
 <br>
 
-<details>
 <summary><strong>구조도</strong></summary>
 
 ![event](https://github.com/soeunc/safe_ride/blob/main/Weekly_Log/assets/%EA%B5%AC%EC%A1%B0%EB%8F%84.png)
 
-</details>
 
 
 ---
